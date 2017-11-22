@@ -1,0 +1,8 @@
+.navbar-inverse{
+  border: none;
+  border-radius: 0;
+  color: white;
+}
+.nav li a{
+  text-align: center;
+}
