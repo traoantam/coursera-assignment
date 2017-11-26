@@ -6,3 +6,11 @@
 .nav li a{
   text-align: center;
 }
+.col-xs-12{
+  background-color: gray;
+  color: black;
+  margin-bottom: 10px;
+}
+.row{
+  padding: 10px;
+}
